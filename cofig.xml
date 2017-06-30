@@ -3,8 +3,8 @@
         xmlns:gap="http://phonegap.com/ns/1.0"
 		id="com.phonegap.api-request"
 		version="1.0.0">
-		<name>My First App</name>
+		<name>My Animation</name>
 		<preference name="fullscreen" value="true"/>
 		<description> This appilication is my first hybrid Application</description>
-		<icon src="images/deadpool.png"/>
+		<icon src="deadpool.png"/>
 		</widget>
